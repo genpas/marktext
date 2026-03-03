@@ -18,7 +18,7 @@ The sidebar consists of three panels and you can toggle the sidebar by pressing 
 
 #### Toggle tabs
 
-MarkText can be used as a single editor but opens all files in a separate tab. Tabs can be toggled via <kbd>CmdOrCtrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> and reordered by drag and drop.
+MarkText can be used as a single editor but opens all files in a separate tab. Tabs can be toggled via <kbd>CmdOrCtrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> and reordered by drag and drop.
 
 **Want to use tabs without showing them?**
 
